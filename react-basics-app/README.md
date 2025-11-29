@@ -4,7 +4,27 @@ It contains two tasks:
 WelcomeMessage Component
 Counter Component (Increment / Decrement)
 
-Features
+# This command is used 
+npx create-react-app react-basics-app because it helps to 
+
+- create-react-app (CRA) is a tool made by the React team.
+
+- It helps you create a complete React project automatically.
+
+- If you don’t use it, then you would have to set up everything 
+  manually:
+  
+# npx
+Runs a package without installing it globally.
+So you don’t have to install CRA manually.
+# create-react-app
+This is the tool that creates a ready-made React project.
+# react-basics-app
+This is the name of your project folder.
+After running the command, this folder gets created automatically.
+
+
+# Features
 ✅ Task 1 — WelcomeMessage Component
 Shows a message: "Welcome to React Basics!"
 Created in its own file (WelcomeMessage.js)
